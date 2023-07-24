@@ -18,7 +18,7 @@ Get started in three simple steps:
 
 ## The author of this repository: Kaizen Team! 👥
 
-<img src="image1_url" alt="Image 1" width="300" height="200">
-<img src="image2_url" alt="Image 2" width="300" height="200">
-<img src="image3_url" alt="Image 3" width="300" height="200">
-<img src="image4_url" alt="Image 4" width="300" height="200">
+<img src="lib_images/cvzone.png" alt="Image 1" width="300" height="200">
+<img src="lib_images/opencv-wallpaper.webp" alt="Image 2" width="300" height="200">
+<img src="lib_images/skimagelogo.png" alt="Image 3" width="300" height="200">
+<img src="lib_images/unnamed.jpg" alt="Image 4" width="300" height="200">
